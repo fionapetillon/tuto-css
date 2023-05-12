@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "tuto-css",
+			"path": "."
+		},
+		{
+			"name": "assets-metropolis",
+			"path": "../assets-metropolis"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tuto-css"
+	}
+}
